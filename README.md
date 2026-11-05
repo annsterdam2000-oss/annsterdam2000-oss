@@ -1,16 +1,35 @@
-## Hi there 👋
+# > whoami
 
-<!--
-**annsterdam2000-oss/annsterdam2000-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Тимофей** (в сети — **RAPTURE**). 
+14 лет. Южно-Сахалинск. Пишу код, разбираю ИБ-инциденты и строю распределенные системы.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧬 Мой стек
+
+*   **Языки:** Python, JS (Vanilla), SQL
+*   **Бэкенд:** FastAPI, SQLite
+*   **Инструменты:** Git, GitHub, VS Code, Docker (базово), Linux (Ubuntu)
+*   **Направления:** OSINT, Web Security, Backend Dev
+
+---
+
+### 🛠️ Текущий проект
+
+**[Geryon Recon](https://github.com/annsterdam2000-oss/geryon-recon)** — локальная распределительная OSINT-система. 
+Сервер раздает задачи агентам, результаты собираются в веб-панели. Лицензия: **AGPL-3.0**.
+
+> *"Три тела — одна цель. Сервер. Агенты. Панель."*
+
+---
+
+### 📡 Где меня найти
+
+*   **Telegram (Dev log):** [@rapture_devlog](https://t.me/rapture_devlog) — пишу про код, баги, рефакторинг и ИБ.
+*   **Discord:** `rep_zara_666_81776` (если что-то срочное или по делу)
+
+---
+
+> *«Я не гуру. Я просто пацан, который копается в терминале.»*
+> 
+> **Всем 200 OK.** 🤖
